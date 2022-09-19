@@ -5,7 +5,7 @@
 
 Projeto construido do evento Next Level Week da Rocketseat
 
-[🔗Clique aqui para acessar](https://parzisval401.github.io/NLW-eSports-explrer2/)
+[🔗Clique aqui para acessar](https://parzisval401.github.io/NLW-eSports-explorer2/)
 
 ##  👨🏻‍💻 Tecnologias
 
